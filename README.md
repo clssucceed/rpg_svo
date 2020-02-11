@@ -41,3 +41,5 @@ See the Wiki for more instructions. https://github.com/uzh-rpg/rpg_svo/wiki
 
 You are very welcome to contribute to SVO by opening a pull request via Github.
 I try to follow the ROS C++ style guide http://wiki.ros.org/CppStyleGuide
+
+test
